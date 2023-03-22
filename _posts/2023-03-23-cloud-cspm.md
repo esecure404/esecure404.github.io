@@ -1,9 +1,8 @@
 ---
-title: Cloud Security Posture Management
-date: 2023-03-23 12:00:00 -500
+title: Cloud Security Postute Management
+date: 2023-03-23 02:33:00 -500
 categories: [cspm]
-tags: [cloud,cspm,security]     # TAG names should always be lowercase
----
+tags: [cspm,clou,security]
 
 # What is Cloud Security Posture Management?
 
