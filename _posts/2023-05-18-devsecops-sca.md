@@ -20,7 +20,7 @@ Let's download, install and run the tool locally on simple python django webapp.
 
 git clone https://github.com/esecure404/django.nv.git webapp
 
-![alt text] (https://github.com/esecure404/esecure404.github.io/blob/main/assets/webapp.png)
+![alt text] (assets/webapp.png)
 
 cd webapp
 
