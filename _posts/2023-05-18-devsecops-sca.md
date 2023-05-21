@@ -21,7 +21,7 @@ Let's download, install and run the tool locally on simple python django webapp.
 git clone https://github.com/esecure404/django.nv.git webapp
 
 
-<p><img data-src="/assets/webapp.png" alt="" data-proofer-ignore></p>
+<p><img data-src="/assets/webapp.png"</p>
 
 cd webapp
 
