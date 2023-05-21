@@ -20,7 +20,8 @@ Let's download, install and run the tool locally on simple python django webapp.
 
 git clone https://github.com/esecure404/django.nv.git webapp
 
-![alt text] (assets/webapp.png)
+
+<p><img data-src="/assets/webapp.png" alt="" data-proofer-ignore></p>
 
 cd webapp
 
