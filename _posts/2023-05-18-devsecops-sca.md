@@ -1,5 +1,5 @@
 ---
-title: sca
+title: Software Component Analysis using Safety
 date: 2023-05-18 03:37:00 +500
 categories: [cloud, devsecops]
 tags: [cloud, devsecops, security]     # TAG names should always be lowercase
