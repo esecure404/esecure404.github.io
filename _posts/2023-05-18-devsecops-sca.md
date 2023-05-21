@@ -20,7 +20,12 @@ Let's download, install and run the tool locally on simple python django webapp.
 
 git clone https://github.com/esecure404/django.nv.git webapp
 
+<<<<<<< HEAD
 ![Desktop View](/assets/img/webapp.png){: width="700" height="400" }
+=======
+
+<p><img data-src="/assets/webapp.png"</p>
+>>>>>>> a5f0e297daeba8055fc95f34bc0140b22c0323cf
 
 cd webapp
 
